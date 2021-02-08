@@ -1,0 +1,119 @@
+main, header, section, footer {
+    margin: 0;
+    padding: 20px;
+    
+    /*border: 1px solid #000000;*/   
+}
+
+body {
+    background-color: rgb(91, 144, 218);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#name {
+    color: rgb(0, 0, 0);
+}
+
+.container {
+    width: 960px;
+    max-width: 100%;
+    padding: 20px;
+    margin: 0 auto;
+}
+.nav ul {
+	margin: 1em 0 .5em;
+	text-align: center;
+}
+
+.nav li {
+	display: inline;
+}
+
+.nav a {
+	display: inline-block;
+	padding: .5em 1.5em;
+}
+
+.headersocial .container {
+	display: flex;
+	align-items: center;
+	justify-content: space-around;
+	flex-wrap: wrap;
+}
+
+.container {
+    width: 200px;
+    height: 120px;
+    padding-bottom: 100px;
+     
+}
+
+
+.container img {
+    
+    display: flex;
+    justify-content: space-between;
+    align-items: right;
+    width: 100%;
+    
+    height: auto;
+}
+
+#footer {
+    list-style-type: square;
+}
+
+.footnav ul {
+	margin: 1em 0 .5em;
+	text-align: center;
+}
+.footnav li {
+	display: inline;
+}
+.footnav a {
+	display: inline-block;
+	padding: .5em 1.5em;
+}
+
+.bio {
+    
+    background-color: rgb(243, 176, 76);
+    border: 1px solid #000000;
+    margin-bottom: 20px;
+}
+
+.skills {
+    
+    background-color: rgb(243, 176, 76);
+    border: 1px solid #000000;
+    margin-bottom: 20px;
+}
+
+.projects {
+   
+    background-color: rgb(243, 176, 76);
+    border: 1px solid #000000;
+    margin-bottom: 20px;
+}
+
+
+.services {
+    
+    background-color: rgb(243, 176, 76);
+    border: 1px solid #000000;
+    margin-bottom: 20px;
+}
+
+.blog {
+    
+    background-color: rgb(243, 176, 76);
+    border: 1px solid #000000;
+    margin-bottom: 20px;
+}
+
+.contact {
+    
+    background-color: rgb(243, 176, 76);
+    border: 1px solid #000000;
+    margin-bottom: 20px;
+}
