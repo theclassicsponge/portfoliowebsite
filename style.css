@@ -6,7 +6,7 @@ main, header, section, footer {
 }
 
 body {
-    background-color: rgb(91, 144, 218);
+    background-color: rgb(223, 223, 223);
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
@@ -77,21 +77,22 @@ body {
 
 .bio {
     
-    background-color: rgb(243, 176, 76);
+    background-color: rgba(243, 176, 76, 0.596);
+    
     border: 1px solid #000000;
     margin-bottom: 20px;
 }
 
 .skills {
     
-    background-color: rgb(243, 176, 76);
+    background-color: rgb(243, 176, 76, 0.596);
     border: 1px solid #000000;
     margin-bottom: 20px;
 }
 
 .projects {
    
-    background-color: rgb(243, 176, 76);
+    background-color: rgb(243, 176, 76, 0.596);
     border: 1px solid #000000;
     margin-bottom: 20px;
 }
@@ -99,21 +100,21 @@ body {
 
 .services {
     
-    background-color: rgb(243, 176, 76);
+    background-color: rgb(243, 176, 76, 0.596);
     border: 1px solid #000000;
     margin-bottom: 20px;
 }
 
 .blog {
     
-    background-color: rgb(243, 176, 76);
+    background-color: rgb(243, 176, 76, 0.596);
     border: 1px solid #000000;
     margin-bottom: 20px;
 }
 
 .contact {
     
-    background-color: rgb(243, 176, 76);
+    background-color: rgba(243, 176, 76, 0.596);
     border: 1px solid #000000;
     margin-bottom: 20px;
 }
